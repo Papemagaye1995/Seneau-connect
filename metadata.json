@@ -1,0 +1,7 @@
+{
+  "name": "seneau_connect",
+  "description": "Application pour les Sénégalais pour les demandes de branchement d'eau SEN'EAU en ligne, suivi en temps réel, paiements sécurisés et gestion de budget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
